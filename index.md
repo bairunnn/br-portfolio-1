@@ -1,29 +1,25 @@
-## Portfolio
+## Creations
 
 ---
 
-### Category Name 1 
+### JavaScript projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[BTO Story Map](https://bairunnn.github.io/bto-oct-2024-storymap-draft/)
+<img src="images/story.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[BTO Dashboard](https://bairunnn.github.io/dashboard-byron-draft/)
+<img src="images/dash.png?raw=true"/>
+
+---
+[Tekong planner's playground](https://bairunnn.github.io/tekong-project/)
+<img src="images/tekong.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### VR projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- To come...
 
 ---
 
@@ -31,5 +27,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
