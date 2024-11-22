@@ -1,11 +1,11 @@
-title: Byron Huang
+title: Byron Huang 黄柏润
 logo: "/images/photo.jpg?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Urban Redevelopment Authority 
   <br><br>
-  Second description 
+  Singapore 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/feed/">Byron's LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
