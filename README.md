@@ -1,8 +1,8 @@
-## Developer Portfolio Landing Page Template
+## Byron's portfolio
 
-### ⚠️ Project Discontinued ⚠️
+### Welcome!
 
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+Thank you for checking out the portfolio of Byron, who doesn't get checked out often in public.
 
 ---
 
